@@ -1,0 +1,10 @@
+{
+  "name": "eslint-plugin-tailwindcss-sandbox",
+  "private": true,
+  "license": "MIT",
+  "devDependencies": {
+    "eslint": "^7.26.0",
+    "eslint-plugin-react": "^7.23.2",
+    "eslint-plugin-tailwindcss": "^1.5.4"
+  }
+}
